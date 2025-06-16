@@ -224,4 +224,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  13.06.2025 Navigation fixed
+
+
+Update:  16.06.2025 05:48 File references
